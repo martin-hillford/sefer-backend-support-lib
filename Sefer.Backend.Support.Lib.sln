@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sefer.Backend.Support.Lib", "Sefer.Backend.Support.Lib\Sefer.Backend.Support.Lib.csproj", "{36F7F402-7070-4EAE-83B2-06D1D46043A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sefer.Backend.Support.Lib.Test", "Sefer.Backend.Support.Lib.Test\Sefer.Backend.Support.Lib.Test.csproj", "{587385C9-A0E4-4B52-A8A8-666A228C30B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F7F402-7070-4EAE-83B2-06D1D46043A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F7F402-7070-4EAE-83B2-06D1D46043A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F7F402-7070-4EAE-83B2-06D1D46043A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F7F402-7070-4EAE-83B2-06D1D46043A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587385C9-A0E4-4B52-A8A8-666A228C30B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587385C9-A0E4-4B52-A8A8-666A228C30B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587385C9-A0E4-4B52-A8A8-666A228C30B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587385C9-A0E4-4B52-A8A8-666A228C30B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
