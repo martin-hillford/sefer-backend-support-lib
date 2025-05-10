@@ -1,4 +1,4 @@
-namespace Sefer.Api.Support;
+namespace Sefer.Backend.Support.Lib;
 
 public static class HttpRequestExtensions
 {

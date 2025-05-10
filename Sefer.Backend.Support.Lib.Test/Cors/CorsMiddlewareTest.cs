@@ -1,4 +1,4 @@
-namespace Sefer.Api.Support.Test.Cors;
+namespace Sefer.Backend.Support.Lib.Test.Cors;
 
 [TestClass]
 public class CorsMiddlewareTest

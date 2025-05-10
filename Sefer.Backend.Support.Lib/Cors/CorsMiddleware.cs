@@ -1,4 +1,4 @@
-namespace Sefer.Api.Support.Cors;
+namespace Sefer.Backend.Support.Lib.Cors;
 
 public class CorsMiddleware(RequestDelegate next)
 {

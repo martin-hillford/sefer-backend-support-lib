@@ -1,7 +1,7 @@
-namespace Sefer.Api.Support.Cors;
+namespace Sefer.Backend.Support.Lib.Cors;
 
 /// <summary>
-/// Contains options cross origin resource sharing
+/// Contains options cross-origin resource sharing
 /// </summary>
 public class CorsOptions
 {
